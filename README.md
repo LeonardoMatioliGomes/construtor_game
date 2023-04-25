@@ -1,34 +1,23 @@
-# Titulo ou Arte do Projeto
+# Construtor_game
 ## Versão: 1.0 
-## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
+## Status do Projeto: ✔️ Concluído
 
 ## Tópicos
 🔹 Descrição do projeto 
 
 🔹 Funcionalidades
 
-🔹 Distribuição
-
-🔹 Pré-requisitos
-
 🔹 Como rodar a aplicação
-
-🔹 Testes realizados
 
 🔹 Banco de Dados
 
 🔹 Linguagens, dependências e libs utilizadas
 
-🔹 Novas Recursos
+🔹 Novos Recursos
 
 🔹 Resolvendo problemas
 
 🔹 Recursos inseridos 
-
-🔹 Desenvolvedores/Contribuintes
-
-🔹 Informações Extras
-
 
 ...
 
